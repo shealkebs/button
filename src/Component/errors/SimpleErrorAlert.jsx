@@ -37,7 +37,7 @@ class SimpleErrorAlert extends React.Component {
     }
 }
 
-module.export default SimpleErrorAlert;
+export default SimpleErrorAlert;
 
 SimpleErrorAlert.propTypes = {
     errors: PropTypes.any,
