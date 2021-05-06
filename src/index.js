@@ -1,1 +1,1 @@
-module.exports = require('./Component/errors/SimpleErrorAlert');
+export const SimpleErrorAlert = import ('./Component/errors/SimpleErrorAlert');
