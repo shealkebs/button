@@ -1,2 +1,5 @@
-module.exports = require('./Component/errors/SimpleErrorAlert');
-module.exports = require('./Component/errors/SimpleErrorArrayAlert');
+import {SimpleErrorAlert,SimpleErrorArrayAlert} from './Component/errors/SimpleErrorArrayAlert';
+
+export {
+    SimpleErrorAlert, SimpleErrorArrayAlert
+}
