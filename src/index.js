@@ -1,4 +1,4 @@
-import {SimpleErrorAlert,SimpleErrorArrayAlert} from './Component/errors/SimpleErrorArrayAlert';
+import {SimpleErrorAlert,SimpleErrorArrayAlert} from './Component/errors';
 
 export {
     SimpleErrorAlert, SimpleErrorArrayAlert
