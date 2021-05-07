@@ -1,1 +1,1 @@
-module.exports = require('./Component/errors');
+module.exports = require('./Component/errors/SimpleErrorAlert');
